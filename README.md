@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paul-Sizon
 - 👀 I’m interested in Android development🤖
-- 🌱 I’m currently learning Android stuff, Flutter
-- 💞️ I’m looking to collaborate on your app)
+- 🌱 I’m currently learning Android native development😊, Flutter🐦
+- 💞️ I’m looking to collaborate on your app🛫🚀🌝
 - 📫 How to reach me paul.sizon@outlook.com
 
 <!---
