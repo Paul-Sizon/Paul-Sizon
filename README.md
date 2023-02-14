@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Paul-Sizon
 - 👀 I’m interested in Android development📱🤖
-- 🌱 I’m currently learning everything🧗
-- 💞️ I’m looking to collaborate on your app🛫🚀🌝
+- 🌱 I’m currently learning google Cloud and Flutter
 - 📫 How to reach me Telegram: @Pablo_Kagathos
 
 <!---
