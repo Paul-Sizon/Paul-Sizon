@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Sizon
-- 👀 I’m interested in Android development📱🤖
-- 🌱 I’m currently learning google Cloud and Flutter
+- 👀 I’m interested in Mobile Development📱🤖
+- 🌱 I’m currently learning KMM
 - 📫 How to reach me Telegram: @Pablo_Kagathos
 
 <!---
