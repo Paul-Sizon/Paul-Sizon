@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Sizon
-- 👀 I’m interested in Mobile Development📱🤖
-- 🌱 I’m currently learning KMM
+- 👨‍💻 I work as Mobile Developer📱🤖
+- 🌱 I’m currently learning Blockchain development🔑
 - 📫 How to reach me Telegram: @Pablo_Kagathos
 
 <!---
