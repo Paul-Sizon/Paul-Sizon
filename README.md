@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Paul-Sizon
-- 👨‍💻 I work as Mobile Developer📱🤖
-- 🌱 I’m currently learning Blockchain development🔑
+- 👨‍💻 I work as Mobile📱 / Blockchain developer🔑
 - 📫 How to reach me Telegram: @Pablo_Kagathos
 
 <!---
