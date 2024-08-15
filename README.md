@@ -11,7 +11,7 @@ I'm a Mobile / Blockchain Developer living in Buenos Aires 🇦🇷
 - 🔭 I’m currently available to work.
 - 🧐 Always learning about blockchain, smart contracts, and software development.
 - 💬 Ping me about blockchain stuff.
-- 📙 Check out my [resume](https://docs.google.com/document/d/1lJsjDvmsumfVvLQgeIOqSXHTPgkaz9gRVfujkvWmVow/edit).
+- 📙 Check out my [resume](https://drive.google.com/file/d/13O_q8Dp5EA0bO7nca_bp1FIla24ESK6Q/view?usp=sharing).
 - 🎉 Fun Fact: I like cypherpunk, nomadism, world music
 
 
