@@ -1,16 +1,19 @@
 ## Hi 👋, I'm Paul
 
-I'm a Mobile / Blockchain Developer living in Buenos Aires 🇦🇷
+Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
 
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/868489934988784583/922F08FA0EA953FC9BAC20572A960D0905983A17/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently available to work.
-- 🌱 Learning about blockchain, smart contracts, and software development.
-- 💬 Ping me about blockchain stuff.
+- 🔭 I’m currently available for freelance/remote work.
+- 🧐 Always learning: blockchain, smart contracts, and software development.
+- 👨‍🔬 Currently exploring: blockchain theory, zk-proofs and opcode magic.
 - 📙 Check out my [resume](https://drive.google.com/file/d/13O_q8Dp5EA0bO7nca_bp1FIla24ESK6Q/view?usp=sharing).
-- 🎉 Fun Fact: I like cypherpunk, nomadism, world music
+- 📈 Career goal: save the world and get rich by doing it
+- 🌎Languages: English, Russian, basic Spanish and a bit of Turkish.
+- 🌐 Community involvement: Active contributor to blockchain meetups and hackathons
+- 🎉 Fun Fact: I like cypherpunk, nomadism and king gizzard and lizard wizzard
 
 
 <h2>🚀 Some Tools I Use</h2>
