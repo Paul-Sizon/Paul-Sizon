@@ -1,8 +1,8 @@
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/868489934988784583/922F08FA0EA953FC9BAC20572A960D0905983A17/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="600"/>
+
 ## Hi 👋, I'm Paul
 
 Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
-
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/868489934988784583/922F08FA0EA953FC9BAC20572A960D0905983A17/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="500"/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -13,7 +13,7 @@ Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
 - 📈 Career goal: save the world and get rich by doing it
 - 🌎Languages: English, Russian, basic Spanish and a bit of Turkish.
 - 🌐 Community involvement: Active contributor to blockchain meetups and hackathons
-- 🎉 Fun Fact: I like cypherpunk, nomadism and king gizzard and lizard wizzard
+- 🎉 Fun Fact: I like king gizzard and lizard wizzard
 
 
 <h2>🚀 Some Tools I Use</h2>
