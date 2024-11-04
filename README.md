@@ -9,7 +9,7 @@ Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
 - 🔭 I’m currently available for freelance/remote work.
 - 🧐 Always learning: blockchain, smart contracts, and software development.
 - 👨‍🔬 Currently exploring: smart contract security.
-- 📙 Check out my [resume](https://drive.google.com/file/d/13O_q8Dp5EA0bO7nca_bp1FIla24ESK6Q/view?usp=sharing).
+- 📙 Check out my [resume](https://drive.google.com/file/d/1wXFxpfXmVO1XDxQkxnWRHvmlvZXzGb7H/view?usp=sharing).
 - 📈 Career goal: save the world and get rich by doing it
 - 🌎Languages: English, Russian, basic Spanish and a bit of Turkish.
 - 🌐 Community involvement: Active contributor to blockchain meetups and hackathons
