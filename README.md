@@ -2,14 +2,14 @@
 
 ## Hi 👋, I'm Paul
 
-Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
+Mobile & Blockchain Dev living Curitiba, Brasil 🇧🇷
 
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently available for freelance/remote work.
 - 🧐 Always learning: blockchain, smart contracts, and software development.
 - 👨‍🔬 Currently exploring: smart contract security.
-- 🌎Languages: English, Russian, basic Spanish and a bit of Turkish.
+- 🌎Languages: English, Russian, basic Spanish and Portuguese.
 - 🌐 Community involvement: Active contributor to blockchain meetups and hackathons
 - 🎉 Fun Fact: I like king gizzard and lizard wizzard
 
@@ -19,8 +19,8 @@ Mobile & Blockchain Dev living in Buenos Aires 🇦🇷
 <p align="left">
   
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white" />
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=flat-square&logo=solidity&logoColor=363636" />
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
